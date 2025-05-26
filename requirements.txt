@@ -1,0 +1,6 @@
+openai>=1.14.0
+python-dotenv>=1.0.1
+azure-identity>=1.16.0
+pytest
+requests
+
